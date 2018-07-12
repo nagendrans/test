@@ -15,6 +15,7 @@ namespace Genoa_Dashboard
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            //Testing changes
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
