@@ -11,6 +11,7 @@ using Microsoft.Extensions.Options;
 
 namespace Genoa_Dashboard
 {
+    //startup testing
     public class Startup
     {
         public Startup(IConfiguration configuration)
