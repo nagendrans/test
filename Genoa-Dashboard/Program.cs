@@ -22,5 +22,7 @@ namespace Genoa_Dashboard
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
+        //Giubg to be sattgged
     }
 }
