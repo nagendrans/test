@@ -16,6 +16,7 @@ namespace Genoa_Dashboard
         {
             BuildWebHost(args).Run();
             //Testing changes
+            //master branch change in remote
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
